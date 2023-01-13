@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 15:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 15:54:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -24,8 +24,11 @@
 sudo apt install update-manager
 </code></pre>
 <hr />
+<p>code block 1</p>
 <pre><code>sudo apt-get update &amp;&amp; sudo apt-get upgrade -y &amp;&amp; sudo apt-get dist-upgrade -y &amp;&amp;  sudo apt-get autoremove -y &amp;&amp; sudo apt-get autoclean -y
 </code></pre>
+<p>code block 2</p>
+<p><code>sudo apt-get update &amp;&amp; sudo apt-get upgrade -y &amp;&amp; sudo apt-get dist-upgrade -y &amp;&amp;  sudo apt-get autoremove -y &amp;&amp; sudo apt-get autoclean -y</code></p>
 <hr />
 ]]></content:encoded>
         </item>
